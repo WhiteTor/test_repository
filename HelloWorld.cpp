@@ -7,4 +7,5 @@
 int main()
 {
 cout << "hello world!" << endl;
+cout << "My name is 신우성!" << end;     #자기소개
 }
